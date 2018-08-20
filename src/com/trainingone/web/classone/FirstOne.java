@@ -34,6 +34,7 @@ public class FirstOne {
 	
 	// Method ()
 	public void Ravi(){
+		System.out.println("added second");
 		
 	}
 
